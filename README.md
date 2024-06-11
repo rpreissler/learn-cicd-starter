@@ -1,4 +1,4 @@
-![code coverage badge](https://github.com/wagslane/go-rabbitmq/actions/workflows/Tests.yml/badge.svg)
+![code coverage badge](https://github.com/rpreissler/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 # learn-cicd-starter (Notely)
 # the amazing boot.dev course!
 =======
